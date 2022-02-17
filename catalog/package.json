@@ -187,7 +187,7 @@
     "eslint-plugin-react": "^7.27.0",
     "eslint-plugin-react-hooks": "^4.3.0",
     "eslint-plugin-redux-saga": "^1.2.1",
-    "express": "^4.17.2",
+    "express": "^4.17.3",
     "file-loader": "^6.2.0",
     "fork-ts-checker-webpack-plugin": "^6.4.0",
     "html-loader": "^2.1.2",
